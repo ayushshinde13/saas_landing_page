@@ -176,7 +176,7 @@ npm run build
 ## 🌐 Live Demo
 
 Demo:
-https://your-demo-link.vercel.app
+
 
 ---
 
@@ -198,7 +198,7 @@ Ayush Shinde
 
 Frontend Developer | React Developer | MERN Stack Developer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ayushshinde13/saas_landing_page.git
 
 
 ---
